@@ -28,6 +28,7 @@ system/system/lib64/libutils.so
 system/system/lib64/libm.so
 system/system/lib64/libvndksupport.so
 
+```
 
 vendor/lib64/libdrmfs.so
 
@@ -47,3 +48,6 @@ system/system/lib/libvndksupport.so
 system/system/lib/libion.so
 system/system/lib/libdl_android.solibandroidicu.so',
 system/system/lib/libutils.so
+
+
+```
